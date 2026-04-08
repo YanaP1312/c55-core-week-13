@@ -44,4 +44,4 @@ jobs:
         uses: actions/upload-artifact@v6
         with:
           name: weather-app-build
-          path: build.zip
+          path: task-1/build.zip
